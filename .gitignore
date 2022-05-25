@@ -1,3 +1,2 @@
-
-bin
-src/.DS_Store
+/bin
+**/.DS_Store
